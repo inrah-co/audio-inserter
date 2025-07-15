@@ -1,7 +1,7 @@
 {
 	"id": "audio-inserter",
 	"name": "Audio Inserter",
-	"version": "1.0.0",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "A plugin to insert audio recordings into markdown files.",
 	"author": "Faisal",
